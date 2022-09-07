@@ -1,0 +1,15 @@
+.title-style {
+    text-align: center;
+}
+.table-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid rgb(64,64,64,.8);
+    padding: 10px 20px;
+}

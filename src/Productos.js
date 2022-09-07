@@ -16,6 +16,12 @@ const list = [
         id: 3,
         descripcion: 'PC Lenovo',
         precio: 2450000,
+    },
+    ,
+    {
+        id: 3,
+        descripcion: 'PC Huawei',
+        precio: 2750000,
     }
 ];
 

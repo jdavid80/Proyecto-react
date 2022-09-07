@@ -11,6 +11,11 @@ const list = [
         id: 2,
         descripcion: 'PC Asus',
         precio: 2300000,
+    },
+    {
+        id: 3,
+        descripcion: 'PC Lenovo',
+        precio: 2450000,
     }
 ];
 
